@@ -13,3 +13,11 @@ img {
 p {
     font-weight: bold;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: orange;
+}
